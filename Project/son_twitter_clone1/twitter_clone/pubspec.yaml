@@ -1,0 +1,83 @@
+name: twitter_clone
+description: "A new Flutter project."
+publish_to: 'none' 
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  json_serializable: ^6.7.1
+  json_annotation: ^4.8.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+  build_runner: ^2.4.7
+  flutter_gen_runner: ^5.3.2
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+
+  fonts:
+    - family: SFPro
+      fonts:
+        - asset: assets/fonts/sf-pro/SF-Pro-Text-Thin.otf
+          weight: 100
+        - asset: assets/fonts/sf-pro/SF-Pro-Text-Ultralight.otf
+          weight: 200
+        - asset: assets/fonts/sf-pro/SF-Pro-Text-Light.otf
+          weight: 300
+        - asset: assets/fonts/sf-pro/SF-Pro-Text-Regular.otf
+          weight: 400
+        - asset: assets/fonts/sf-pro/SF-Pro-Text-Medium.otf
+          weight: 500
+        - asset: assets/fonts/sf-pro/SF-Pro-Text-Semibold.otf
+          weight: 600
+        - asset: assets/fonts/sf-pro/SF-Pro-Text-Bold.otf
+          weight: 700
+        # - asset: assets/fonts/sf-pro/SF-Pro-Text-Light.otf
+        #   weight: 800
+        - asset: assets/fonts/sf-pro/SF-Pro-Text-Heavy.otf
+          weight: 900
+          
+
+  
+
+  
+  
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
